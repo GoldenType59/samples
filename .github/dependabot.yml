@@ -6,6 +6,6 @@
 version: 2
 updates:
   - package-ecosystem: "npm" # See documentation for possible values
-    directory: "/" # Location of package manifests
+    directory: "/chapter04/sample01/ui/" # Location of package manifests
     schedule:
       interval: "daily"
